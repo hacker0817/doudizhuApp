@@ -3,5 +3,5 @@
 *.js linguist-language=Vue
 *.css linguist-language=Vue
 *.html linguist-language=Vue
-*.SCSS linguist-language=Vue
+*.scss linguist-language=Vue
 
